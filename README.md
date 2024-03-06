@@ -1,4 +1,4 @@
-# Serverless, AWS, NestJS, GraphQL and DynamoDB starter
+# Lambda, AWS, NestJS, GraphQL and DynamoDB
 
 ## Description
 
